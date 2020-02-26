@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Andika Yudha Riyanto"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/avatar.jpg"
   bio              : "**Nikmati dan Syukuri**."
   location         : "Somewhere"
   email            :
