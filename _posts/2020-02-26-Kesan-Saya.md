@@ -14,7 +14,7 @@ tags:
   - Begitulah
 ---
 
-<u>Kesan</u> saya pada Matakuliah Proyek 1 ini sangat bermanfaat untuk saya kedepannya<br>
+<u>Kesan</u> saya pada Matakuliah Proyek 1 ini sangat bermanfaat untuk saya kedepannya
 agar terbiasa mengerjakan apapun proyek yang diberikan dan menyelesaikannya dengan tepat waktu dan siap pada
 dunia kerja.
 
