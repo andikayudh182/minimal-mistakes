@@ -1,5 +1,5 @@
 ---
-title:  "Kesan Saya"
+title:  "Kesan"
 
 categories: 
   - Kesan
@@ -15,6 +15,7 @@ tags:
 ---
 
 <u>Kesan</u> saya pada Matakuliah Proyek 1 ini sangat bermanfaat untuk saya kedepannya<br>
-agar terbiasa mengerjakan apapun proyek yang diberikan dan menyelesaikannya dengan tepat waktu
+agar terbiasa mengerjakan apapun proyek yang diberikan dan menyelesaikannya dengan tepat waktu dan siap pada
+dunia kerja.
 
 
