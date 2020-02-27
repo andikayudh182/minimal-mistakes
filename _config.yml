@@ -111,8 +111,9 @@ author:
   avatar           : "/images/avatar.jpg"
   bio              : "**Nikmati dan Syukuri**."
   links:
-  location         : "Taman Bukit Cibogo"
-  url: "https://andikayudh182.github.io/minimal-mistakes/" 
+  - label: "Cimahi, Jawa Barat"
+      icon: "fab fa-fw fa-facebook-location"
+      url: "https://facebook.com/andika821/"
   email            :
   links:
     - label: "Email"
