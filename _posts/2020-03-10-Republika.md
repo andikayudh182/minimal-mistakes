@@ -1,5 +1,5 @@
 ---
-title:"Republika"
+title:  "Republika"
 
 tags:
   - Update 
