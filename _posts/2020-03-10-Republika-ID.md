@@ -16,4 +16,4 @@ tags:
   - Web
   - Scrapping
 ---
- [Berikut Hasil Web Scrapping Saya](Republika.html)
+ <a href="../Republika.html">Berikut Hasil Web Scrapping Saya</a>
