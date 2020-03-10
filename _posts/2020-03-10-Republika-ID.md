@@ -16,4 +16,4 @@ tags:
   - Web
   - Scrapping
 ---
- Berikut Hasil Web Scrapping Saya
+ [Berikut Hasil Web Scrapping Saya](Republika.html)
