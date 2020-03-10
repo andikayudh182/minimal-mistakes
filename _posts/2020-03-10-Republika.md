@@ -1,8 +1,6 @@
 ---
-title:  "Republika"
+title:"Republika"
 
-categories: 
-  - Republika
 tags:
   - Update 
   - Republika 
@@ -15,6 +13,5 @@ tags:
   - 19 
   - Web
   - Scrapping
-  
 ---
  <a href="../Republika.html"><u>Berikut Link Hasil Web Scrapping Saya</u></a>
