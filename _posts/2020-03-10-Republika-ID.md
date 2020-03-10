@@ -1,5 +1,5 @@
 ---
-title:  "Republika"
+title:  "Republika-ID"
 
 categories: 
   - Scrapping
@@ -16,4 +16,4 @@ tags:
   - Web
   - Scrapping
 ---
- [Berikut Hasil Web Scrapping Saya](Republika.html)
+ Berikut Hasil Web Scrapping Saya
