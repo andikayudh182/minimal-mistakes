@@ -1,5 +1,5 @@
 ---
-title:  "Republika""
+title:  "Republika"
 
 categories: 
   - Republika
