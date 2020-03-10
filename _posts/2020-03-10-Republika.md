@@ -1,12 +1,12 @@
 ---
-title:  "Republika"
+title:  "Republika""
 
 categories: 
   - Republika
 tags:
   - Update 
   - Berita
-  - Republika 
+  - RepublikaID 
   - Saya 
   - Proyek 1 
   - 1B
