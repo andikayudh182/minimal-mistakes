@@ -1,6 +1,8 @@
 ---
 title:  "Republika"
 
+categories: 
+  - Scrapping
 tags:
   - Update 
   - Republika 
