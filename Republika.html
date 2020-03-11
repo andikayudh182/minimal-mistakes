@@ -1,6 +1,6 @@
+<!DOCTYPE html>
 <html>
-<script src="http://code.jquery.com/jquery-3.3.1.js"></script>
-
+<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
 <script>
      $(document).ready(function(){
         $.getJSON('Republika.json',function(data){
@@ -14,7 +14,6 @@
                 headline_data += '<td>'+value.title+'</td>'
                 headline_data += '<td>'+value.time+'</td>'
                 headline_data += '<td>'+value.publish+'</td>'
-
                 headline_data += '</tr>';
                 i = i + 1;
             });
